@@ -14,7 +14,11 @@ python3 client.py
 
 ### > Usage
 > 1 - Server send all project compressed, and the service time to operating synchronously
+
 > 2 - Client download, unzip project, and waiting the service time to iniciate operations
+
 > 3 - Client start to collect data
+
 > 4 - Periodically send data to server
+
 > 5 - Server create all reports about quality os service
