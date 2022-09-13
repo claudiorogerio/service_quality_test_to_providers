@@ -1,4 +1,4 @@
-# service_quality_test_to_providers
+# Service Quality Test to internet providers
 A model to test the quality of service and experience on internet providers in local or remote clients. The characteristics of each internet provider can be analyzed in real time. The model is useful on SO Linux.
 
 ![](https://github.com/claudiorogerio/service_quality_test_to_providers/blob/main/img/overview_redes.png)
@@ -9,6 +9,8 @@ A model to test the quality of service and experience on internet providers in l
 
 ### > Execute on port 5600
 ```shell
+git clone https://github.com/claudiorogerio/service_quality_test_to_providers.git
+cd service_quality_test_to_providers/
 python3 client.py
 ```
 
